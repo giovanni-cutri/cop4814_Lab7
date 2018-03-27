@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/* 
-    This is a comment indicating a change in the files from the master branch.
+/* s
+    This is a modification of the comments
 */
 
 namespace ClassLibrary1

@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 /* 
-    This is a comment indicating a change in the files. The second change to show conflicts.
+    All conflicts resolved
 */
 
 namespace ClassLibrary1

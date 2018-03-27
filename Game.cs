@@ -4,8 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/* s
-    This is a modification of the comments
+
+/* 
+    All conflicts resolved
 */
 
 namespace ClassLibrary1

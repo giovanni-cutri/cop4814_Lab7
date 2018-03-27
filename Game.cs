@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/* 
+    This is a comment indicating a change in the files from the master branch.
+*/
+
 namespace ClassLibrary1
 {
     public class Game
@@ -12,6 +16,7 @@ namespace ClassLibrary1
         public int team1score { get; set; }
         public string team2 { get; set; }
         public int team2score { get; set; }
+        public int counter {get; set; }
 
         public Game()
         {

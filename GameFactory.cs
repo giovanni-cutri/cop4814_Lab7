@@ -22,7 +22,7 @@ namespace ClassLibrary1
             //Creating 6 games with 12 teams and populating their scores. Italian Serie A (Soccer)
             Game game;
 
-            game = new Game("Bologna", 2, "Inter", 0);
+            game = new Game("Juventus", 2, "Inter", 0);
             gameList.Add(game);
 
             game = new Game("Fiorentina", 1, "Napoli", 0);
